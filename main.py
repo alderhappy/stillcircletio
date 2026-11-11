@@ -1,8 +1,0 @@
-func main() { println("hi") }
-package tool
-
-var Version = "1.0.0"
-
-# 3120da
-
-# 7edcfb
